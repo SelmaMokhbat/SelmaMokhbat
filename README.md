@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Selma Mokhbat  
-🎓 Master 2 Student in Artificial Intelligence at **Université Paris-Est Créteil (UPEC)** | Passionate about AI & Data Science  
+🎓 Passionate about AI & Data Science  
 
 - 🔬 Worked on AI-driven media monitoring solutions, semantic search, CV-job offer matching, and Data Scientist at **i-Yusr**  
 - 🛠️ Technical Skills:  
@@ -10,6 +10,6 @@
   Other Tools: Git, GitHub, GitLab, Windev, UML, Microsoft Office  
 - 🌍 Languages: French (bilingual), English (fluent), Arabic (native)  
 - 🛠️ Skills: Machine Learning, NLP, Clustering, Information Retrieval, Data Mining, Problem Solving, Metaheuristics  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/selmamokhbat) | Email: [mokhbatselma@outlook.com](mailto:mokhbatselma@outlook.com) | [selma.mokhbat@etu.u-pec.fr](mailto:selma.mokhbat@etu.u-pec.fr)  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/selmamokhbat) | Email: [mokhbatselma@outlook.com](mailto:mokhbatselma@outlook.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelmaMokhbat&show_icons=true&theme=dark)
